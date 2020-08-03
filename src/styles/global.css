@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'eina-light';
+    font-display: swap;
+    src: url('../../static/fonts/eina-light.otf');
+}
+
+@font-face {
+    font-family: 'eina-semibold';
+    font-display: swap;
+    src: url('../../static/fonts/eina-semibold.otf');
+}
+
+@font-face {
+    font-family: 'eina-regular';
+    font-display: swap;
+    src: url('../../static/fonts/eina-regular.otf');
+}
